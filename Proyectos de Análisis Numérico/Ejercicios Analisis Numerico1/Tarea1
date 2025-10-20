@@ -1,5 +1,0 @@
-El código realiza tres funciones: ordena alfabéticamente una lista de palabras, 
-identifica la posición de la palabra “Murmullo” y muestra cuál ocupa el lugar 17 en la lista ordenada. 
-Luego se crean funciones para convertir números decimales a binarios de 64 bits y viceversa, ilustrando 
-el funcionamiento del sistema de punto flotante compuesto. Además se incluye una versión interactiva que 
-convierte un número binario ingresado por el usuario a su valor decimal.
